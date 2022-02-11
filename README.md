@@ -9,7 +9,7 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](rafael.souza.java)
 
 
-[![Top Langs Rafael Souza](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellsouzadev&langs_count=8&show_icons=true&theme=dracula)](https://github.com/rafaellsouzadev/github-readme-stats)
+[![Rafael Souza Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellsouzadev&langs_count=8&theme=dracula)](https://github.com/rafaellsouzadev/github-readme-stats)
 ![Rafael Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaellsouzadev&show_icons=true&theme=dracula)
 
 
